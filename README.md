@@ -61,8 +61,8 @@ digital-literacy-project/
 ## Links
 
 - **Google Form (Task 3):** [Paste your form link here]  
-- **GitHub Profile:** [Paste your GitHub profile link]  
-- **LinkedIn Profile:** [Paste your LinkedIn link]  
+- **GitHub Profile:** https://github.com/vanyakapoor2007
+- **LinkedIn Profile:** www.linkedin.com/in/vanya-kapoor-2a0b553ab
 
 ---
 
