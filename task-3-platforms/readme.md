@@ -1,1 +1,7 @@
+# Task 3 – Coding & Collaboration Platforms
 
+In this task, I used coding platforms as well as collaboration platforms.
+
+Firstly, I completed a beginner-level coding problem on HackerRank, which helped me understand coding practice platforms. Secondly, I designed a Google Form with the title 'Digital Literacy Awareness Quiz,' consisting of five questions, and then linked it with a response sheet.
+
+Screenshots of the completed coding task, Google Form, and the response sheet are included in this folder.
